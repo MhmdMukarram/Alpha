@@ -5,9 +5,14 @@
 </a></p>
 <div align="center"><img src="https://profile-counter.glitch.me/MhmdMukarram/count.svg" /><br>Profile Viewers</div>
 
- <!-- Typing SVG -->
+ ## <!-- Typing SVG -->
 <p align="center">
     <a href="https://git.io/J0hKr">
         <img
         src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=RED-ALPHA+BOT+WAS+CREATED+BY+MHMD+MUKARRAM."
             alt="Typing SVG"
+        />
+    </a>
+</p>
+<div align="center">
+  <p align="center"> 
