@@ -9,7 +9,7 @@
 <p align="center">
     <a href="https://git.io/J0hKr">
         <img
-        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=RED-ALPHA+BOT+WAS+CREATED+BY+MHMD+MUKARRAM."
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=RED-ALPHA+BOT+WAS+FORK+FROM+SEW-QUEEN."
             alt="Typing SVG"
         />
     </a>
