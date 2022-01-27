@@ -19,4 +19,4 @@
 
 Hi ,<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a> I'm RedAlpha&nbsp;
 
-![My card name](https://cardivo.vercel.app/api?name=Chintu-%20userbot&description=Hi,%20I'm%20a%20moderate%20Developer%20😎&image=https://i.ibb.co/JjmP8K2/LOGO.jpgbackgroundColor=%23ecf0f1&github=Amalser&&pattern=leaf&colorPattern=%25eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=Chintu-%20userbot&description=Hi,%20I'm%20a%20moderate%20Developer%20😎&image=https://i.ibb.co/JjmP8K2/LOGO.jpgbackgroundColor=%23ecf0f1&github=RedAlpha&&pattern=leaf&colorPattern=%25eaeaea)
