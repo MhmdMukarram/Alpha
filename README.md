@@ -16,3 +16,7 @@
 </p>
 <div align="center">
   <p align="center"> 
+
+Hi ,<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a> I'm Amalser&nbsp;
+
+![My card name](https://cardivo.vercel.app/api?name=Amalser-%20userbot&description=Hi,%20I'm%20a%20moderate%20Developer%20😎&image=https://i.imgur.com/w89FHm7.pngbackgroundColor=%23ecf0f1&github=Amalser&&pattern=leaf&colorPattern=%25eaeaea)
